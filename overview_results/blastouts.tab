@@ -1,0 +1,77 @@
+		Latin name (ordered by phylogeny)	Fish number or origin	Mx	Mx Singleton	TLR5	TLR5 singletons	Synteny Mx	Synteny TLR5 
+		Xiphophorus maculatus	Ensembl	Mx		TLR5			
+		Poecilia formosa	Ensembl	Mx		TLR5			
+		Oryzias latipes	Ensembl	Mx		TLR5			
+		Oreochromis niloticus	Ensembl	Mx		TLR5			
+		Pseudochromis fuscus	90	Mx UTG		loss	no findings	no	no
+		Chromis chromis	87	Mx UTG		TLR5 UTG		no	no
+		Parablennius parvicornis	88	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000853787	no
+		Anabas testudineus	85	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000487434	no
+		Helostoma temminckii	84	Mx UTG		TLR5 UTG		no	yes, TLR5/THBD utg7180000019013
+		Selene dorsalis	86	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000236995	no
+		Tetraodon nigroviridis	Ensembl	Mx		TLR5			
+		Takifugu rubripes	Ensembl	Mx		TLR5			
+		Antennarius striatus	52	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180002092389	no
+		Spondyliosoma cantharus	81	Mx UTG		TLR5 UTG		no	no
+		Symphodus melops	89	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000769161	no
+		Chaenocephalus aceratus	61	Mx UTG		TLR5 UTG		no	no
+		Sebastes norvegicus	56	Mx UTG		TLR5 UTG		no	no
+		Myoxocephalus scorpius	91	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180002622789	no
+		Gasterosteus aculeatus	Ensembl	Mx		TLR5			
+		Perca fluviatilis	55	Mx UTG		TLR5 UTG		no	no
+		Lesueurigobius cf sanzoi	96	Mx UTG		TLR5 UTG		no	no
+		Thunnus albacares	83	Mx UTG		TLR5 UTG		no	yes, TLR5/DISP1 utg7180002332540
+		Chatrabus melanurus	40	Mx UTG		TLR5 UTG		no	no
+		Carapus acus	33	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000637795	no
+		Lamprogrammus exutus	31	Mx UTG		TLR5 UTG		no	no
+		Brotula barbata	32	Mx UTG		TLR5 UTG		no	no
+		Acanthochaenus luetkenii	79	Mx UTG		TLR5 UTG		no	no
+		Rondeletia loricata	68	Mx UTG		TLR5 UTG		no	no
+		Beryx splendens	69	Mx UTG		TLR5 UTG		no	no
+		Neoniphon sammara	70	Mx UTG		TLR5 UTG		no	no
+		Holocentrus rufus	35	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000982229	no
+		Myripristis jacobus	34	Mx UTG		TLR5 UTG		yes, Mx/THOC7 utg7180000902163	no
+		Monocentris japonica	74	Mx UTG		TLR5 UTG	(fragment)	yes, Mx/THOC7 utg7180000166573	no
+		Lampris guttatus	48	Mx UTG		loss	no findings	yes, Mx/THOC7 utg7180002673933	no
+		Regalecus glesne	47	Mx UTG		loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Gadus morhua	97	loss	no findings	loss	no findings	no, but GadMor2	no, but GadMor2
+Paracanthopterygii	Gadiformes	Theragra chalcogramma	7	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Boreogadus saida	2	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Arctogadus glacialis	1	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Merlangius merlangus	6	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Melanogrammus aeglefinus	5	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Pollachius virens	4	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Gadiculus argenteus	8	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Trisopterus minutus	3	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Brosme brosme	12	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Molva molva	10	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Lota lota	11	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Phycis phycis	9	loss	no findings	loss	no findings	yes, thoc7/synpr utg7180000048940	no
+Paracanthopterygii	Gadiformes	Phycis blennoides	95	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Malacocephalus occidentalis	18	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Macrourus berglax	17	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Bathygadus melanobranchus	19	loss	no findings	loss	no findings	yes, thoc7/synpr utg7180001907904	no
+Paracanthopterygii	Gadiformes	Laemonema laureysi	23	loss	no findings	loss	no findings	no	yes, DISP1/THBD utg7180001866305
+Paracanthopterygii	Gadiformes	Mora moro	22	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Trachyrincus murrayi	94	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Trachyrincus scabrus	36	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Muraenolepis marmoratus	20	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Melanonus zugmayeri	16	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Merluccius capensis	14	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Merluccius merluccius	13	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Merluccius polli	15	loss	no findings	loss	no findings	no	no
+Paracanthopterygii	Gadiformes	Bregmaceros cantori	21	loss	no findings	loss	no findings	no	no
+Paracanthopterygii		Stylephorus chordatus	80	loss	no findings	loss	no findings	no	no
+Paracanthopterygii		Cyttopsis roseus	30	Mx UTG		loss	no findings	no	no
+Paracanthopterygii		Zeus faber	28	Mx UTG		loss	no findings	no	no
+Paracanthopterygii		Typhlichthys subterraneus	27	Mx UTG		loss	no findings	no	no
+Paracanthopterygii		Percopsis transmontana	26	Mx UTG		loss	no findings	no	no
+Paracanthopterygii		Polymixia japonica	24	Mx UTG		loss	no findings	no	no
+		Benthosema glaciale	66	Mx UTG		TLR5 UTG		no	no
+		Guentherus altivela	50	Mx UTG		TLR5 UTG		no	no
+		Parasudis fraserbrunneri	42	Mx UTG		TLR5 UTG		no	no
+		Borostomias antarcticus	65	Mx UTG		TLR5 UTG		no	no
+		Osmerus eperlanus	54	Mx UTG		TLR5 UTG		yes, thoc7/synpr  utg7180000000945	no
+		Salmo salar	NCBI	Mx		TLR5			
+		Danio rerio	Ensembl	Mx		TLR5			
+		Astyanax mexicanus	Ensembl	Mx		TLR5			
