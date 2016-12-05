@@ -2,3 +2,5 @@
 -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue sseq" -max_target_seqs 5 -evalue 1e-10 -num_threads 20
 #for synteny blasts:
 -outfmt 6 -max_target_seqs 2 -evalue 1e-10 -num_threads 20
+# for singleton blasts:
+-outfmt 0 -evalue 1e-1 -num_threads 8
